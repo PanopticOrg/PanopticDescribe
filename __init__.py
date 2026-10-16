@@ -1,3 +1,3 @@
-from .main import BLIPPlugin
+from .main import DescribePlugin
 
-plugin_class = BLIPPlugin
+plugin_class = DescribePlugin

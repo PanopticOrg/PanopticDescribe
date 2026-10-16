@@ -1,1 +1,4 @@
-transformers
+transformers>=5.3
+torch
+pillow
+requests
